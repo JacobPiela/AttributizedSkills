@@ -24,6 +24,7 @@
   "command.remove_spell_req.success": "Removed requirements for spell: %1$s",
   "command.set_skill_level": "Set %1$s level to %2$s for player %3$s",
   "command.set_tear_point.success": "Set %1$s free tear points to %2$s",
+  "command.add_tear_point.success": "Added %1$s free tear points to %2$s",
   "container.skills": "Skills",
   "effect.attributizedskills.atrophy": "Atrophy",
   "effect.attributizedskills.atrophy.description": "Severely reduces attack speed, damage, and spell damage.",

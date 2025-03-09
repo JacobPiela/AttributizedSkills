@@ -23,6 +23,7 @@ public class ModCommands {
                 .then(RemoveRequirementsCommand.register())
                 .then(AddSkillBonusCommand.register())
                 .then(RemoveSkillBonusCommand.register())
+                .then(AddTearPointsCommand.register())
                 .then(SetTearPointsCommand.register()));
   }
 
